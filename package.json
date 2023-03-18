@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@orbs-network/ton-access": "^2.3.0",
+    "@tonconnect/ui-react": "^0.0.14",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "ton": "^13.4.1",
